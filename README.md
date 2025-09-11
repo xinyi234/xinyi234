@@ -16,6 +16,7 @@
 - CTFer😃 learning Reverse [this is my blog](https://xinyi234.github.io/)
 - majoring in Cyberspace Security at TJU👍
 - pentest is interesting🤩
+- Front-end member ofTWT✌️
 
 ## Connect
 <!-- 徽章 -->
