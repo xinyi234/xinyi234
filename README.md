@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!" />
 </p>
 <!-- 数据概览 -->
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=xinyi234&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
+
 <!-- 贪吃蛇特效 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xinyi234/xinyi234/output/github-contribution-grid-snake-dark.svg">
@@ -16,7 +16,7 @@
 - CTFer😃 learning Reverse [this is my blog](https://xinyi234.github.io/)
 - majoring in Cyberspace Security at TJU👍
 - pentest is interesting🤩
-- Front-end member ofTWT✌️
+- Front-end member of TWT✌️
 
 ## Connect
 <!-- 徽章 -->
