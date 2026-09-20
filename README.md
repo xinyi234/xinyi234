@@ -22,7 +22,7 @@
 <!-- 徽章 -->
 <p align="center">
   <a href="https://github.com/xinyi234"><img src="https://img.shields.io/badge/GitHub-xinyi234-blue?logo=github" /></a>
-  <a href="https://space.bilibili.com/1910740282"><img src="https://img.shields.io/badge/哔哩哔哩-做梦的蓝猫-pink?logo=bilibili" /></a>
+  <!-- <a href="https://space.bilibili.com/1910740282"><img src="https://img.shields.io/badge/哔哩哔哩-做梦的蓝猫-pink?logo=bilibili" /></a> -->
   <img src="https://img.shields.io/badge/QQ-3630016869-green?logo=tencentqq" />
 <!-- 访客徽章 -->
 <img src="https://komarev.com/ghpvc/?username=xinyi234&abbreviated=true&color=yellow" />
